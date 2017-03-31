@@ -1,1 +1,1 @@
-!(http://i.imgur.com/pyevO3q.jpg "サンプル")
+![flower](http://i.imgur.com/pyevO3q.jpg "サンプル")
