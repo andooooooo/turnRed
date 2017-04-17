@@ -1,6 +1,5 @@
 # ABOUT
-This program makes red from the input image more deep.<br/>
-I try to not use OpenCV.
+This program changes input image into red and black.<br/>
 # METHOD
 1. excepts red from the input image.
 2. make red more deep
